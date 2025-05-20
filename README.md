@@ -6,10 +6,10 @@ It is a leading cause of death globally, often linked to lifestyle, genetics, an
 
 Understanding the dataset:
 Numerical Columns:
->BMI (Body Mass Index)
->PhysicalHealth (Number of physically unhealthy days in past 30 days)
->MentalHealth (Number of mentally unhealthy days in past 30 days)
->SleepTime (Average hours of sleep in 24 hours)
+BMI (Body Mass Index)
+PhysicalHealth (Number of physically unhealthy days in past 30 days)
+MentalHealth (Number of mentally unhealthy days in past 30 days)
+SleepTime (Average hours of sleep in 24 hours)
 
 Categorical Columns:
 HeartDisease: Target variable (Yes/No)
